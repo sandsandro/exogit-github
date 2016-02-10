@@ -1,7 +1,8 @@
 body{
-    font-family: "verdana";
-    background-color: skyblue;
-    color: blue;
+
+    font-family: "Comic Sans Ms";
+    background-color: crimson;
+    color: white;
 }
 
 .clearfix{
@@ -11,9 +12,7 @@ body{
 .container{
     margin: auto;
     width: 60%;
-    border: 5px dotted deeppink;
-    border-right: 20px dotted deeppink;
-    border-left: 20px dotted deeppink;
+    border: 10px dotted white;
     padding: 10px;
 }
 
